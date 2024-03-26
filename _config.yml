@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tester, test automation architect, performance test engineer, test consultant, test manager, jack of all trades...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stephenjefferies.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stevejefferies.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: progtester
 github_username:  stevejefferies
 
