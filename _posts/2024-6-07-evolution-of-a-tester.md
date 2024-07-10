@@ -11,4 +11,12 @@ What is the role of a tester? In overly simplistic terms, a testers role is to v
 
 So we have an evolution in how we test, and we have a shift in what we define as being tested. Lets explore both in more detail.
 
-## 
+## How we test
+
+If you go back 10-15 years, the likelihood is you will find the bulk of software development teams practicing traditional waterfall techniques likely with large teams of testers performing manual test activities. Many teams have explored and have some level of unit testing but the emphasis for the most part is on manual validation using manual black box test techniques.
+
+Back in the late 00's and early 10's, many teams were starting to tackle web application development, single page apps were becoming the norm and the rise of Selenium-WebDriver as the defacto standard tool for web UI automation was cemented. At the same time you had a boom in mobile app development, where Appium and others took a leaf from the Selenium-WebDriver book to focus on UI automation. In both mobile and web application it was common to see teams of testers upskilling with these UI automation tools to replace their manual regression tests.
+
+At roughly the same sort of time, teams were quickly realising that UI testing is not all its cracked up to be, its slow and flaky. API testing became increasingly important to reduce the reliance on expensive UI test techniques.
+
+Alongside the technical test changes, the shift to Agile has meant that work is being delivered by smaller teams who need to be able to deliver software end to end. Typical team make-up shifts from teams of developers and teams of testers to small teams of 6-8, including 1-2 testers. Rapid pace of testing means that  
